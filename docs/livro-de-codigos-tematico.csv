@@ -1,0 +1,30 @@
+bloco,categoria,expressao_regular
+objeto,"terapias para TEA (ABA, multidisciplinar)",\bABA\b|applied behavior|an[áa]lise do comportamento|terapia multidisciplinar|integra[çc][ãa]o sensorial|autis|espectro autista|denver|pediasuit|fonoaudi[óo]log|terapia ocupacional|psicopedagog|acompanhante terap[êe]utico|equoterapia|musicoterapia
+objeto,home care e internação domiciliar,home care|internação domiciliar|assist[êe]ncia domiciliar|atendimento domiciliar|cuidador|enfermagem domiciliar
+objeto,medicamento oncológico,"(?:medicamento|quimioter|tratamento)[^.]{0,60}(?:c[âa]ncer|oncol[óo]gic|neoplas|tumor)|oncol[óo]gic[^.]{0,40}medicament|pembrolizu|trastuzu|nivolumab|olaparib|bevacizu"
+objeto,medicamento de alto custo (fora oncologia),zolgensma|spinraza|nusinerse|risdiplam|trikafta|elaprase|soliris|eculizumab|imunobiol[óo]gic|imunoterapia|hemofilia|atrofia muscular espinhal|doen[çc]a rara|medicamento de alto custo
+objeto,canabidiol,canabidiol|cannabis|canab[íi]dic
+objeto,medicamento off-label ou sem registro,off[- ]label|sem registro (?:na |perante )?(?:a )?anvisa|n[ãa]o registrado (?:na )?anvisa|importa[çc][ãa]o de medicamento|uso experimental
+objeto,cirurgia bariátrica e obesidade,bari[áa]tric|obesidade m[óo]rbida|gastroplastia|dermolipectomia|cirurgia pl[áa]stica reparadora
+objeto,"órtese, prótese e materiais",\b[óo]rtese|pr[óo]tese|OPME|\bstent\b|marca[- ]passo|implante coclear|[óo]rtese craniana|capacete
+objeto,saúde mental e internação psiquiátrica,psiqui[áa]tric|sa[úu]de mental|depend[êe]ncia qu[íi]mica|comunidade terap[êe]utica|transtorno mental|internação compuls[óo]ria|psicoterapia
+objeto,fertilização e reprodução assistida,fertiliza[çc][ãa]o|reprodu[çc][ãa]o assistida|criopreserva|insemina[çc][ãa]o|congelamento de [óo]vulos
+objeto,exames e diagnóstico,pet[- ]?scan|pet[- ]ct|resson[âa]ncia|tomografia|exame gen[ée]tico|sequenciamento|cari[óo]tipo|painel gen[ée]tico|bi[óo]psia l[íi]quida
+objeto,cirurgia e internação hospitalar,cirurgia|procedimento cir[úu]rgic|interna[çc][ãa]o hospitalar|\bUTI\b|unidade de terapia intensiva|transplante
+objeto,fisioterapia e reabilitação,fisioterap|reabilita[çc][ãa]o|hidroterapia|RPG\b|pilates
+objeto,tratamento fora da rede ou no exterior,fora da rede|rede n[ãa]o credenciada|cl[íi]nica particular|reembolso integral|tratamento no exterior
+objeto,reajuste de mensalidade,reajuste|faixa et[áa]ria|sinistralidade|aumento da mensalidade
+objeto,"manutenção do contrato (demitido, aposentado, morte)",art(?:igo)?s?\.?\s*3[01]\b|aposentad|demitid|ex[- ]empregad|falecimento do titular|depend[êe]nte ap[óo]s
+objeto,cancelamento ou rescisão unilateral,cancelamento unilateral|rescis[ãa]o unilateral|resili[çãa]|den[úu]ncia do contrato|inadimpl[êe]ncia
+motivo,tratamento fora do rol da ANS,fora do rol|n[ãa]o (?:consta|previsto|inclu[íi]d[oa]) no rol|rol da ANS|taxativ|exemplificativ|rol de procedimentos
+motivo,ausência de previsão contratual,(?:aus[êe]ncia|falta|inexist[êe]ncia) de (?:previs[ãa]o|cobertura) contratual|exclus[ãa]o contratual|cl[áa]usula de exclus[ãa]o|n[ãa]o previsto no contrato
+motivo,caráter experimental,experimental|n[ãa]o comprovada (?:a )?efic[áa]cia|sem evid[êe]ncia cient[íi]fica|tratamento n[ãa]o consagrado
+motivo,ausência de registro na Anvisa ou uso off-label,sem registro (?:na |perante )?(?:a )?anvisa|off[- ]label|n[ãa]o registrado (?:na )?anvisa|importa[çc][ãa]o
+motivo,prestador fora da rede credenciada,fora da rede|rede n[ãa]o credenciada|descredencia|livre escolha|reembolso (?:limitado|conforme o contrato)
+motivo,limitação do número de sessões,limita[çc][ãa]o (?:do )?n[úu]mero de (?:sess[õo]es|consultas)|n[úu]mero de sess[õo]es|sess[õo]es ilimitadas
+motivo,diretriz de utilização não cumprida,diretriz de utiliza[çc][ãa]o|\bDUT\b|crit[ée]rios de elegibilidade
+motivo,carência contratual,car[êe]ncia
+motivo,doença ou lesão preexistente,preexistente|declara[çc][ãa]o de sa[úu]de|omiss[ãa]o de informa[çc][ãa]o|\bCPT\b|\bDLP\b
+motivo,natureza educacional e não de saúde,car[áa]ter educacional|[âa]mbito escolar|acompanhante escolar|n[ãa]o (?:[ée]|possui) natureza (?:m[ée]dica|de sa[úu]de)
+motivo,atendimento domiciliar não coberto,"(?:aus[êe]ncia|n[ãa]o h[áa]|inexist[êe]ncia de) cobertura[^.]{0,40}domiciliar|home care n[ãa]o (?:coberto|previsto)"
+motivo,inadimplência do beneficiário,inadimpl[êe]ncia|falta de pagamento|mora do benefici[áa]rio

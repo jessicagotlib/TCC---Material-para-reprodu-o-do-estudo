@@ -1,0 +1,30 @@
+bloco,categoria,expressao_regular
+óbice,sumula_7_reexame_provas,"s[úu]mulas?\s*(?:n[º°.]*\s*)?(?:\d+\s*(?:,|e)\s*(?:n[º°.]*\s*)?)*7\b(?!\s*\.\d)|\b7/STJ|\b7 do STJ|reexame (?:de|do conjunto|f[áa]tico)|revolvimento"
+óbice,sumula_5_clausula_contratual,"s[úu]mulas?\s*(?:n[º°.]*\s*)?(?:\d+\s*(?:,|e)\s*(?:n[º°.]*\s*)?)*5\b(?!\s*\.\d)|\b5/STJ|\b5 do STJ|interpreta[çc][ãa]o de cl[áa]usula"
+óbice,sumula_83_568_jurisp_dominante,"s[úu]mulas?\s*(?:n[º°.]*\s*)?(?:\d+\s*(?:,|e)\s*(?:n[º°.]*\s*)?)*(?:83|568)\b|\b83/STJ|\b568/STJ|\b83 do STJ"
+óbice,prequestionamento,"prequestionamento|s[úu]mulas?\s*(?:n[º°.]*\s*)?(?:\d+\s*(?:,|e)\s*(?:n[º°.]*\s*)?)*(?:282|356|211)\b|\b282/STF|\b356/STF|\b211/STJ"
+óbice,sumula_284_fundamentacao_deficiente,"s[úu]mulas?\s*(?:n[º°.]*\s*)?(?:\d+\s*(?:,|e)\s*(?:n[º°.]*\s*)?)*284\b|\b284/STF|fundamenta[çc][ãa]o deficiente"
+óbice,dissidio_nao_demonstrado,diss[íi]dio (?:jurisprudencial )?n[ãa]o (?:demonstrado|comprovado)|aus[êe]ncia de (?:similitude|cotejo)
+precedente,jurisprudencia_consolidada,jurisprud[êe]ncia (?:desta|do STJ|deste|pac[íi]fica|consolidada|dominante|firme)|entendimento (?:desta|deste|do STJ|consolidado|pacificado|firmado)|orienta[çc][ãa]o (?:desta|jurisprudencial)
+precedente,eresp_rol_2022,1\.?886\.?929|1\.?889\.?704
+precedente,tema_repetitivo,"tema[s]? (?:repetitivo[s]? )?(?:n[º°.]*\s*)?\d{3,4}|recurso[s]? (?:especial |especiais )?repetitivo|rito dos repetitivos"
+precedente,sumula_608_cdc,\b608/STJ|s[úu]mula[s]?\s*(?:n[º°.]*\s*)?608\b
+precedente,adi_7265_stf,ADI\s*(?:n[º°.]*\s*)?7\.?265
+argumento,rol_taxativo_ou_mitigado,taxativ|mitigad
+argumento,rol_exemplificativo,exemplificativ
+argumento,lei_14454_2022,14\.?454
+argumento,prescricao_medica_deferencia,prescri[çc][ãa]o m[ée]dica|prescrito pelo m[ée]dico|indica[çc][ãa]o m[ée]dica|m[ée]dico assistente
+argumento,abusividade,abusiv
+argumento,cdc_consumidor,consumidor|\bCDC\b
+argumento,autogestao,autogest
+argumento,dano_moral,dano[s]? mora
+argumento,urgencia_emergencia,urg[êe]ncia|emerg[êe]ncia
+argumento,tea_autismo,autis|\bTEA\b|espectro autista|multidisciplinar
+argumento,registro_anvisa_offlabel,anvisa|off[- ]label|experimental
+argumento,home_care,home care|domiciliar
+argumento,reembolso_rede,reembols|rede credenciada|fora da rede
+argumento,reajuste,reajuste|faixa et[áa]ria
+argumento,cancelamento_contrato_coletivo,cancelamento|rescis|resili|coletivo
+argumento,aposentado_demitido_art30_31,art(?:igo)?s?\.?\s*3[01]\b|aposentad|demitid
+direção,pro_operadora,n[ãa]o (?:h[áa]|havendo|se configura|configura(?:da|do)?|caracteriza\w*) (?:abusividade|obrigat\w*|dever|ilicitude)|aus[êe]ncia de (?:obrigatoriedade|dever|abusividade|ilicitude)|recusa (?:leg[íi]tima|devida|l[íi]cita|justificada)|leg[íi]tima a (?:recusa|negativa)|n[ãa]o (?:[ée]|est[áa]) obrigad|cobertura n[ãa]o obrigat|exclus[ãa]o (?:de cobertura )?(?:v[áa]lida|leg[íi]tima|l[íi]cita)|mero (?:inadimplemento|aborrecimento)
+direção,pro_beneficiario,recusa (?:de cobertura )?(?:indevida|abusiva|il[íi]cita|ileg[íi]tima|injustificada)|negativa (?:de cobertura )?(?:indevida|abusiva|il[íi]cita|ileg[íi]tima|injustificada)|abusiv[ao] a (?:recusa|negativa|cl[áa]usula)|(?:dever|obriga[çc][ãa]o) de (?:custear|cobrir|fornecer|arcar)|cobertura (?:obrigat[óo]ria|devida)|dano moral (?:configurado|caracterizado)|direito (?:[àa] cobertura|ao custeio|ao tratamento)
