@@ -1,0 +1,22 @@
+# Dados brutos baixados do Portal de Dados Abertos do STJ (volumosos; recriados pelo pipeline)
+dados/
+*.pkl
+
+# Saídas geradas pela execução
+resultados_fundamentos/
+resultados_precedentes/
+resultados_reforma/
+resultados_tematica/
+resultados_graficos/
+resultados_sinteticos/
+dados_sinteticos/
+assuntos_candidatos.csv
+
+# Ambiente e cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

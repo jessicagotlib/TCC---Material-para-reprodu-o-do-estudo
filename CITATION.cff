@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Como o STJ decide em saúde suplementar: filtros processuais, consenso e precedentes"
+message: Se utilizar este material, cite conforme abaixo.
+type: software
+authors:
+  - family-names: Ferreira da Silva
+    given-names: Jéssica
+year: 2026
+license: MIT
+repository-code: "https://github.com/USUARIO/REPOSITORIO"
+abstract: >-
+  Códigos, tabelas e figuras do trabalho de conclusão de curso que analisa o processo decisório da Terceira
+  Turma, da Quarta Turma e da Segunda Seção do Superior Tribunal de Justiça em saúde suplementar, a partir
+  dos espelhos de acórdãos do Portal de Dados Abertos do STJ.
