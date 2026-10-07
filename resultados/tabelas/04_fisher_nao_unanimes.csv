@@ -1,0 +1,10 @@
+caracteristica,nao_unanimes_com,nao_unanimes_total,%_nos_nao_unanimes,%_nos_unanimes,razao_de_chances,p_valor_fisher
+recurso_de_merito_originario,10,19,52.6,21.4,4.08,0.0028
+decidido_no_merito,15,19,78.9,38.5,6.0,0.0005
+voto_vista,12,19,63.2,0.2,792.62,0.0
+algum_obice,7,19,36.8,64.9,0.32,0.0148
+sumula_7_reexame_provas,2,19,10.5,45.7,0.14,0.0019
+tema_repetitivo,6,19,31.6,6.8,6.28,0.0013
+rol_taxativo_ou_mitigado,1,19,5.3,14.5,0.33,0.5069
+tea_autismo,5,19,26.3,8.6,3.82,0.0196
+lei_14454_2022,0,19,0.0,4.9,0.0,1.0

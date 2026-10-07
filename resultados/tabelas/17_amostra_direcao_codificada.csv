@@ -1,0 +1,151 @@
+﻿id,estrato,orgao,classe,processo,registro,data,subtema,resultado,c1_recorrente(beneficiario/operadora/ambos/nao_identificado),c1_direcao(pro_beneficiario/pro_operadora/misto/sem_merito),observacao,pos,fora_do_escopo
+1449213,recurso especial,QUARTA TURMA,REsp,2001099,2022/0133211-0,30/06/2026,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,1,nao
+921621,recurso especial,TERCEIRA TURMA,AREsp,2900702,2025/0115239-0,12/08/2025,outros,provido,nao_identificado,sem_merito,O recurso trata de reclamação contratual entre a operadora e uma prestadora de serviços. Não é ação de beneficiário contra plano de saúde.,2,sim
+877077,agravo interno,SEGUNDA SEÇÃO,AgInt nos EREsp,1931889,2021/0104617-9,18/06/2024,medicamentos,desprovido,operadora,pro_beneficiario,,3,nao
+881214,agravo interno,QUARTA TURMA,AgInt no REsp,2129521,2024/0083897-1,19/08/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,4,nao
+801698,agravo interno,QUARTA TURMA,AgInt no AREsp,1995177,2021/0329262-1,21/02/2022,cobertura_rol,provido,operadora,pro_operadora,,5,nao
+905994,recurso especial,TERCEIRA TURMA,REsp,2155357,2024/0243493-7,31/03/2025,tratamento_medico_hospitalar,provido,beneficiario,pro_beneficiario,,6,nao
+876757,recurso especial,TERCEIRA TURMA,REsp,2091141,2023/0286730-4,18/06/2024,reajuste,provido,operadora,pro_operadora,"Nesse caso foi marcado como operadora, mas na verdade quem recorre é a empresa mantenedora do contrato com a operadora de plano de saúde.",7,nao
+941221,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2973827,2025/0233834-3,09/12/2025,tratamento_medico_hospitalar,provido,beneficiario,pro_beneficiario,,8,nao
+952043,recurso especial,SEGUNDA SEÇÃO,REsp,2165670,2024/0315462-3,11/03/2026,cobertura_rol,desprovido,beneficiario,pro_operadora,,9,nao
+873783,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2386365,2023/0186130-0,20/05/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,10,nao
+924781,agravo interno,QUARTA TURMA,AgInt nos EDcl no AREsp,2500971,2023/0385547-0,25/08/2025,reajuste,desprovido,operadora,pro_beneficiario,,11,nao
+910557,recurso especial,TERCEIRA TURMA,REsp,2198552,2025/0054716-6,05/05/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,12,nao
+958276,recurso especial,TERCEIRA TURMA,REsp,2210061,2025/0145447-2,11/05/2026,tratamento_medico_hospitalar,provido,operadora,pro_operadora,Solicitação de canabidiol ,13,nao
+951292,recurso especial,QUARTA TURMA,AREsp,3051895,2025/0361175-1,02/03/2026,medicamentos,desprovido,operadora,pro_beneficiario,,14,nao
+937308,recurso especial,TERCEIRA TURMA,AREsp,2953784,2025/0201755-5,20/10/2025,cobertura_rol,desprovido,operadora,pro_beneficiario,,15,nao
+880883,recurso especial,TERCEIRA TURMA,REsp,2098930,2023/0001215-2,20/08/2024,medicamentos,provimento_parcial,operadora,misto,,16,nao
+893242,agravo interno,SEGUNDA SEÇÃO,AgInt na Rcl,47954,2024/0313907-3,19/11/2024,outros,desprovido,nao_identificado,sem_merito,,17,nao
+960216,recurso especial,QUARTA TURMA,REsp,2088707,2023/0269407-9,01/06/2026,cobertura_rol,provido,operadora,pro_operadora,,18,nao
+937630,recurso especial,QUARTA TURMA,REsp,2049534,2023/0023112-6,24/11/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,19,nao
+894043,agravo interno,QUARTA TURMA,AgInt no REsp,2125536,2024/0057831-5,11/11/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,20,nao
+950084,recurso especial,TERCEIRA TURMA,REsp,2246056,2025/0452165-7,02/03/2026,cobertura_rol,provido,beneficiario,pro_beneficiario,,21,nao
+859599,agravo interno,QUARTA TURMA,AgInt no AREsp,2379651,2023/0189485-0,30/10/2023,outros,desprovido,operadora,pro_beneficiario,,22,nao
+955285,recurso especial,TERCEIRA TURMA,REsp,2249052,2025/0485286-0,13/04/2026,insumos,desprovido,operadora,pro_beneficiario,,23,nao
+862460,agravo interno,QUARTA TURMA,AgInt no REsp,2083049,2023/0227609-9,04/12/2023,tratamento_medico_hospitalar,desprovido,beneficiario,pro_operadora,,24,nao
+802509,agravo interno,TERCEIRA TURMA,AgInt no AREsp,1853695,2021/0077415-0,14/02/2022,cobertura_rol,provimento_parcial,beneficiario,sem_merito,,25,nao
+948990,agravo interno,TERCEIRA TURMA,AgInt no AREsp,3005703,2025/0288221-6,09/02/2026,home_care,provido,operadora,misto,"cobertura mantida, mas operadora ganhou em solicitações acessórias, como a redução de multas",26,nao
+1439118,agravo interno,TERCEIRA TURMA,AgInt nos EDcl no REsp,2163982,2024/0304146-0,15/06/2026,cobertura_rol,provido,operadora,pro_operadora,,27,nao
+838369,agravo interno,QUARTA TURMA,AgInt no REsp,1987493,2022/0052857-4,13/03/2023,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,28,nao
+928406,recurso especial,TERCEIRA TURMA,REsp,2218419,2025/0214612-6,15/09/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,29,nao
+831628,recurso especial,TERCEIRA TURMA,REsp,2019618,2022/0251444-9,29/11/2022,processual_competencia,provimento_parcial,operadora,misto,"Obrigou o custeio do medicamento, mas retirou o pagamento de dano moral",30,nao
+937641,recurso especial,QUARTA TURMA,REsp,2127243,2024/0067531-7,24/11/2025,home_care,desprovido,operadora,pro_beneficiario,,31,nao
+939085,recurso especial,TERCEIRA TURMA,REsp,2232200,2025/0344593-1,10/11/2025,manutencao_contrato,provimento_parcial,beneficiario,pro_beneficiario,,32,nao
+957731,recurso especial,TERCEIRA TURMA,AREsp,3139149,2025/0507856-5,04/05/2026,reajuste,desprovido,operadora,pro_beneficiario,,33,nao
+904740,recurso especial,TERCEIRA TURMA,REsp,2193856,2025/0025360-5,17/03/2025,cobertura_rol,desprovido,operadora,pro_beneficiario,,34,nao
+941307,recurso especial,QUARTA TURMA,REsp,2238790,2025/0393838-4,17/11/2025,reajuste,provido,nao_identificado,sem_merito,Essa ementa foge completamente às questões de saúde suplementar. É possível que tenha sido filtrada de forma errônea para a base,35,sim
+837328,agravo interno,QUARTA TURMA,AgInt no AREsp,1961777,2021/0273011-1,06/03/2023,reajuste,desprovido,operadora,pro_beneficiario,,36,nao
+906801,recurso especial,TERCEIRA TURMA,REsp,2185294,2024/0448128-2,31/03/2025,tratamento_medico_hospitalar,provimento_parcial,operadora,pro_operadora,,37,nao
+903015,recurso especial,TERCEIRA TURMA,REsp,2177789,2024/0398392-0,24/02/2025,medicamentos,provido,operadora,pro_operadora,,38,nao
+957434,recurso especial,QUARTA TURMA,REsp,2047433,2023/0010946-3,04/05/2026,reajuste,provimento_parcial,operadora,misto,"Para o beneficiário: O STJ manteve a decisão de que o reajuste por faixa etária original era abusivo (e aplicou as Súmulas 5 e 7 para impedir a revisão desse ponto), garantindo que a cláusula abusiva continue anulada.  Para a operadora: O STJ deu provimento parcial ao recurso para anular o teto fixo de 30% imposto pelo tribunal local, determinando que o percentual adequado seja apurado obrigatoriamente por meio de cálculos atuariais na fase de cumprimento de sentença, conforme o Tema 952 do STJ.",39,nao
+953420,recurso especial,QUARTA TURMA,AREsp,2138559,2022/0166003-8,09/03/2026,manutencao_contrato,desprovido,beneficiario,pro_operadora,,40,nao
+882789,agravo interno,SEGUNDA SEÇÃO,AgInt nos EDcl nos EREsp,2047074,2023/0007805-4,03/09/2024,manutencao_contrato,desprovido,operadora,sem_merito,"A ""operadora"" na verdade é uma empresa que atua como autogestão em saúde para seus empregados",41,nao
+846578,agravo interno,TERCEIRA TURMA,AgInt no REsp,2043050,2022/0387276-7,29/05/2023,cobertura_rol,desprovido,operadora,sem_merito,"O tribunal apenas decidiu que, como mudou o entendimento jurídico sobre o Rol da ANS (que passou a ser de ""taxatividade mitigada"", com exceções), o Tribunal de Justiça local (2ª instância) precisará julgar a apelação inteira de novo, aplicando as novas regras, pois o STJ não tinha as provas necessárias para fazer isso diretamente",42,nao
+900926,agravo interno,QUARTA TURMA,AgInt no AREsp,2785282,2024/0411728-1,24/02/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,43,nao
+1451735,recurso especial,TERCEIRA TURMA,AREsp,3122619,2025/0472597-9,22/06/2026,tratamento_medico_hospitalar,desprovido,beneficiario,pro_operadora,,44,nao
+951663,recurso especial,TERCEIRA TURMA,REsp,2225985,2025/0285429-5,09/03/2026,medicamentos,provido,beneficiario,pro_beneficiario,,45,nao
+1445781,agravo interno,QUARTA TURMA,AgInt no AREsp,2850006,2025/0036605-7,22/06/2026,medicamentos,desprovido,operadora,sem_merito,"Não se trata de tratamento médico ou reclamação equivalente, mas de operadora insurgindo-se contra o pagamento de multa após acordo para encerramento da ação originária. Este pedido foi indeferido.",46,nao
+876647,agravo interno,SEGUNDA SEÇÃO,AgInt nos EREsp,2021588,2022/0261807-0,18/06/2024,tratamento_medico_hospitalar,desprovido,beneficiario,sem_merito,"O STJ não julgou o mérito da disputa, apenas puniu a parte que recorreu (""recorrente"") porque o advogado dela cometeu um erro processual grave: não comprovou corretamente a divergência jurisprudencial exigida pela lei para esse tipo de recurso (Embargos de Divergência)",47,nao
+895956,agravo interno,QUARTA TURMA,AgInt no REsp,2060812,2023/0078040-5,09/12/2024,tratamento_medico_hospitalar,desprovido,beneficiario,pro_operadora,A ementa fala exclusivamente sobre danos morais e custas processuais,48,nao
+895485,agravo interno,QUARTA TURMA,AgInt no AREsp,2688257,2024/0240684-2,02/12/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,49,nao
+801605,agravo interno,TERCEIRA TURMA,AgInt no AgInt no AREsp,1951863,2021/0244078-8,21/02/2022,insumos,desprovido,operadora,pro_beneficiario,,50,nao
+1444654,agravo interno,TERCEIRA TURMA,AgInt no REsp,2246098,2025/0463939-0,22/06/2026,reajuste,desprovido,beneficiario,pro_operadora,,51,nao
+813278,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2000122,2021/0322981-8,02/05/2022,medicamentos,desprovido,operadora,pro_beneficiario,"os ministros apenas atestaram que o tribunal de origem julgou o caso corretamente, esgotou a prestação jurisdicional e não cometeu erros formais na redação do acórdão.",52,nao
+941363,recurso especial,TERCEIRA TURMA,REsp,2197611,2025/0042484-3,17/11/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,53,nao
+950391,recurso especial,SEGUNDA SEÇÃO,REsp,2168627,2024/0335860-5,05/03/2026,processual_competencia,provimento_parcial,operadora,misto,"os ministros fixaram a tese de que a bomba de infusão de insulina deve ser fornecida, mesmo fora do rol da ANS, mas que deve observar critérios estabelecidos pelo STF",54,nao
+807887,agravo interno,SEGUNDA SEÇÃO,AgInt no AgInt nos EREsp,1890007,2020/0207503-6,15/03/2022,cobertura_rol,desprovido,beneficiario,pro_operadora,,55,nao
+937403,recurso especial,TERCEIRA TURMA,REsp,1966504,2021/0319928-0,24/11/2025,cobertura_rol,provimento_parcial,nao_identificado,sem_merito,"Trata-se de um processo que não é da saúde, logo, não deveria compor a base.",56,sim
+949805,recurso especial,QUARTA TURMA,REsp,2187507,2024/0465220-7,09/02/2026,reajuste,provimento_parcial,operadora,misto,". A empresa manteve o direito de reajustar o plano, mas o novo percentual — justo e equilibrado — terá que ser apurado por meio de cálculos atuariais (perícia) na fase de liquidação de sentença.",57,nao
+927818,recurso especial,TERCEIRA TURMA,REsp,2224873,2025/0272000-6,15/09/2025,tratamento_medico_hospitalar,desprovido,beneficiario,pro_operadora,,58,nao
+957542,recurso especial,QUARTA TURMA,REsp,2180269,2024/0421651-0,04/05/2026,medicamentos,provido,beneficiario,sem_merito,,59,nao
+892546,recurso especial,TERCEIRA TURMA,REsp,2130518,2024/0090897-6,12/11/2024,processual_competencia,desprovido,operadora,pro_beneficiario,,60,nao
+813273,agravo interno,TERCEIRA TURMA,AgInt no REsp,1977957,2021/0401757-5,02/05/2022,tratamento_medico_hospitalar,desprovido,operadora,misto,"STJ lembrou que a simples negativa administrativa não gera danos morais automaticamente, sendo necessário comprovar um agravamento real da dor, abalo psicológico ou prejuízo à saúde fragilizada do paciente.",61,nao
+929060,recurso especial,TERCEIRA TURMA,AREsp,2881129,2025/0086278-8,15/09/2025,cobertura_rol,provimento_parcial,operadora,misto,a corte reiterou que a coparticipação não pode constituir um fator de limitação grave ou de inviabilização do acesso aos serviços de saúde. O processo terá de voltar à origem para que o tribunal analise o caso concreto e verifique se o percentual cobrado é abusivo/desarrazoado ou se está dentro dos limites legais.,62,nao
+917204,recurso especial,TERCEIRA TURMA,REsp,2211764,2025/0159703-1,23/06/2025,reajuste,provimento_parcial,operadora,misto,"O STJ manteve a constatação de que o reajuste por faixa etária aplicado pela operadora era abusivo, desarrazoado ou sem base atuarial idônea. STJ garantiu que a anulação do índice abusivo não zera o reajuste. Aplicando o art. 51, § 2º, do CDC e o Tema 952/STJ, a decisão determinou que um percentual adequado e razoável de reajuste seja apurado por meio de cálculos atuariais na fase de cumprimento de sentença, evitando a onerosidade excessiva para ambas as partes.",63,nao
+955674,recurso especial,TERCEIRA TURMA,REsp,2236935,2025/0373768-6,13/04/2026,manutencao_contrato,provimento_parcial,operadora,misto,"O STJ deu provimento parcial ao recurso para afastar eventuais excessos da condenação de origem, reiterando o entendimento de que a operadora não tem a obrigação de disponibilizar ou comercializar um plano individual/familiar caso essa modalidade não faça parte do seu portfólio de vendas",64,nao
+832954,agravo interno,SEGUNDA SEÇÃO,AgInt nos EREsp,1914956,2021/0003960-2,29/11/2022,processual_competencia,desprovido,operadora,pro_beneficiario,,65,nao
+938126,recurso especial,QUARTA TURMA,AREsp,2745690,2024/0346081-7,01/12/2025,outros,provido,beneficiario,sem_merito,,66,nao
+943578,agravo interno,QUARTA TURMA,AgInt no AREsp,3009770,2025/0295353-5,16/12/2025,medicamentos,provido,operadora,pro_operadora,,67,nao
+896714,agravo interno,QUARTA TURMA,AgInt no AREsp,2696436,2024/0262812-6,09/12/2024,processual_competencia,desprovido,operadora,pro_beneficiario,,68,nao
+855964,recurso especial,TERCEIRA TURMA,REsp,2001108,2022/0133339-5,03/10/2023,cobertura_rol,provimento_parcial,operadora,misto,A ementa menciona cobertura do protocolo PediaSuit e incidência da cláusula de coparticipação,69,nao
+836899,agravo interno,QUARTA TURMA,AgInt no REsp,2031212,2022/0317181-6,06/03/2023,home_care,desprovido,operadora,pro_beneficiario,,70,nao
+881667,agravo interno,TERCEIRA TURMA,AgInt no REsp,2132188,2024/0101676-1,19/08/2024,cobertura_rol,desprovido,operadora,pro_beneficiario,,71,nao
+917677,recurso especial,TERCEIRA TURMA,AREsp,2627641,2024/0152329-7,16/06/2025,medicamentos,provimento_parcial,operadora,misto,Mantém o custeio do medicamento oncológico e afasta o dano moral por dúvida razoável,72,nao
+908470,agravo interno,TERCEIRA TURMA,AgInt no REsp,2153010,2024/0230339-6,14/04/2025,tratamento_medico_hospitalar,desprovido,beneficiario,pro_operadora,,73,nao
+807966,agravo interno,SEGUNDA SEÇÃO,AgInt nos EAREsp,1692979,2020/0093281-2,15/03/2022,reembolso_rede,desprovido,beneficiario,pro_operadora,,74,nao
+907742,recurso especial,SEGUNDA SEÇÃO,REsp,2108440,2023/0057399-0,03/04/2025,tratamento_medico_hospitalar,provido,beneficiario,pro_beneficiario,foi mantida a cobertura da terapia pediasuit | corrigido: quem recorreu foi o paciente,75,nao
+923080,agravo interno,QUARTA TURMA,AgInt no REsp,1881134,2020/0154247-7,18/08/2025,medicamentos,desprovido,beneficiario,pro_operadora,,76,nao
+878520,agravo interno,QUARTA TURMA,AgInt no AREsp,2559193,2024/0030731-3,01/07/2024,reembolso_rede,provido,operadora,pro_operadora,,77,nao
+951058,recurso especial,QUARTA TURMA,REsp,2249138,2025/0483897-7,09/03/2026,tratamento_medico_hospitalar,provido,operadora,pro_operadora,,78,nao
+936892,recurso especial,QUARTA TURMA,REsp,2066167,2023/0103958-9,20/10/2025,tratamento_medico_hospitalar,provido,beneficiario,pro_beneficiario,,79,nao
+827647,agravo interno,TERCEIRA TURMA,AgInt no REsp,2005551,2022/0164400-0,03/10/2022,medicamentos,desprovido,operadora,pro_beneficiario,,80,nao
+941255,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2957093,2025/0205891-9,24/11/2025,reembolso_rede,provido,operadora,misto,resultado misto,81,nao
+816131,recurso especial,TERCEIRA TURMA,REsp,1993895,2021/0262427-2,10/05/2022,reajuste,provido,operadora,pro_operadora,,82,nao
+938810,recurso especial,QUARTA TURMA,REsp,2208772,2025/0135814-0,27/10/2025,reembolso_rede,desprovido,beneficiario,pro_operadora,,83,nao
+893187,agravo interno,QUARTA TURMA,AgInt no AREsp,2551746,2024/0018412-4,18/11/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,84,nao
+803918,agravo interno,QUARTA TURMA,AgInt no REsp,1962572,2021/0274369-2,21/02/2022,reembolso_rede,desprovido,operadora,pro_beneficiario,,85,nao
+939961,recurso especial,TERCEIRA TURMA,REsp,2237767,2025/0393480-1,15/12/2025,medicamentos,provido,operadora,pro_operadora,,86,nao
+812884,agravo interno,QUARTA TURMA,AgInt no REsp,1975011,2021/0367622-1,25/04/2022,medicamentos,desprovido,operadora,pro_beneficiario,,87,nao
+921607,recurso especial,TERCEIRA TURMA,AREsp,2930689,2025/0162802-3,18/08/2025,tratamento_medico_hospitalar,provimento_parcial,operadora,misto,,88,nao
+939489,recurso especial,TERCEIRA TURMA,REsp,2039490,2022/0364213-1,03/11/2025,cobertura_rol,provimento_parcial,operadora,sem_merito,,89,nao
+921721,recurso especial,TERCEIRA TURMA,REsp,2213224,2025/0171144-2,18/08/2025,medicamentos,provimento_parcial,beneficiario,misto,,90,nao
+836099,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2042114,2021/0396417-5,13/02/2023,cobertura_rol,desprovido,operadora,pro_beneficiario,,91,nao
+872558,agravo interno,TERCEIRA TURMA,AgInt nos EDcl no REsp,1982242,2022/0018946-8,13/05/2024,reajuste,desprovido,beneficiario,pro_operadora,,92,nao
+867636,agravo interno,QUARTA TURMA,AgInt no AREsp,2451948,2023/0282842-8,04/03/2024,cobertura_rol,provido,operadora,misto,,93,nao
+859458,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2337633,2023/0109223-3,30/10/2023,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,94,nao
+884470,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2450304,2023/0281116-8,09/09/2024,medicamentos,desprovido,operadora,misto,"a cobertura foi mantida, mas o dano moral foi recusado",95,nao
+919719,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2849147,2025/0035153-0,12/08/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,96,nao
+958499,recurso especial,QUARTA TURMA,REsp,2249642,2025/0483879-9,11/05/2026,cobertura_rol,provido,operadora,pro_operadora,,97,nao
+910980,recurso especial,TERCEIRA TURMA,REsp,2205263,2025/0105562-8,05/05/2025,cobertura_rol,desprovido,operadora,pro_beneficiario,,98,nao
+906938,agravo interno,QUARTA TURMA,AgInt nos EDcl no REsp,2160512,2024/0280644-4,31/03/2025,manutencao_contrato,desprovido,operadora,pro_beneficiario,,99,nao
+837391,agravo interno,TERCEIRA TURMA,AgInt no REsp,2038621,2022/0361844-3,13/03/2023,cobertura_rol,desprovido,beneficiario,pro_operadora,,100,nao
+820471,recurso especial,SEGUNDA SEÇÃO,EREsp,1889704,2020/0207060-5,08/06/2022,reajuste,desprovido,operadora,pro_beneficiario,"A Seção fixou por maioria a tese da taxatividade mitigada, que é a leitura mais favorável às operadoras, mas o resultado do caso concreto é favorável ao beneficiário",101,nao
+938603,recurso especial,TERCEIRA TURMA,REsp,2142442,2024/0163542-6,09/12/2025,reajuste,provido,operadora,pro_operadora,,102,nao
+938661,recurso especial,TERCEIRA TURMA,REsp,2198405,2024/0147572-5,09/12/2025,manutencao_contrato,provido,operadora,pro_operadora,,103,nao
+1382450,recurso especial,QUARTA TURMA,REsp,2230435,2025/0294526-7,08/06/2026,cobertura_rol,provido,beneficiario,pro_beneficiario,,104,nao
+808661,agravo interno,QUARTA TURMA,AgInt no AREsp,1958887,2021/0253284-7,14/03/2022,medicamentos,desprovido,operadora,pro_beneficiario,,105,nao
+949736,recurso especial,QUARTA TURMA,AREsp,2835542,2025/0009777-8,09/02/2026,medicamentos,desprovido,operadora,pro_beneficiario,,106,nao
+901288,agravo interno,QUARTA TURMA,AgInt no AREsp,2018778,2021/0348854-9,24/02/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,107,nao
+876285,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2549537,2024/0012208-4,17/06/2024,outros,desprovido,operadora,pro_beneficiario,,108,nao
+948882,recurso especial,QUARTA TURMA,AREsp,2652732,2024/0182288-1,09/02/2026,tratamento_medico_hospitalar,provido,operadora,pro_operadora,,109,nao
+955578,recurso especial,TERCEIRA TURMA,REsp,2127815,2024/0072610-1,13/04/2026,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,110,nao
+835675,recurso especial,TERCEIRA TURMA,REsp,2017759,2022/0241660-3,14/02/2023,home_care,provido,beneficiario,pro_beneficiario,,111,nao
+910513,agravo interno,TERCEIRA TURMA,AgInt no AgInt no AREsp,2587304,2024/0069417-2,28/04/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,112,nao
+1460344,recurso especial,TERCEIRA TURMA,REsp,2275779,2026/0178924-0,12/08/2026,manutencao_contrato,desprovido,operadora,pro_beneficiario,,113,nao
+814815,agravo interno,TERCEIRA TURMA,AgInt no REsp,1991304,2022/0074018-4,16/05/2022,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,114,nao
+1042861,recurso especial,QUARTA TURMA,AREsp,3077498,2025/0396423-3,01/06/2026,insumos,provido,beneficiario,pro_beneficiario,,115,nao
+904406,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2778523,2024/0402016-0,17/03/2025,medicamentos,desprovido,operadora,pro_beneficiario,,116,nao
+957073,recurso especial,QUARTA TURMA,AREsp,3109232,2025/0452441-2,22/04/2026,medicamentos,provido,operadora,pro_operadora,,117,nao
+847288,agravo interno,QUARTA TURMA,AgInt no REsp,1878912,2020/0139754-7,05/06/2023,cobertura_rol,desprovido,operadora,pro_beneficiario,,118,nao
+848534,agravo interno,QUARTA TURMA,AgInt no AREsp,2081203,2022/0059611-4,19/06/2023,reajuste,desprovido,beneficiario,pro_operadora,"Na verdade, a ação não é contra uma operadora. É contra um hospital/centro clínico. Foi marcado como operadora apenas para fins de identificação",119,sim
+929618,recurso especial,TERCEIRA TURMA,REsp,2194887,2025/0028936-4,27/10/2025,tratamento_medico_hospitalar,provimento_parcial,operadora,pro_operadora,,120,nao
+1444085,agravo interno,TERCEIRA TURMA,AgInt nos EDcl no AREsp,3145884,2025/0506342-9,22/06/2026,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,121,nao
+939695,recurso especial,QUARTA TURMA,AREsp,3043753,2025/0326178-8,24/11/2025,cobertura_rol,desprovido,operadora,pro_beneficiario,,122,nao
+957928,recurso especial,TERCEIRA TURMA,REsp,2167928,2024/0331722-8,04/05/2026,manutencao_contrato,provimento_parcial,operadora,misto,,123,nao
+807380,agravo interno,TERCEIRA TURMA,AgInt no AREsp,1992695,2021/0313460-4,28/03/2022,cobertura_rol,desprovido,operadora,pro_beneficiario,,124,nao
+957967,recurso especial,TERCEIRA TURMA,REsp,2161119,2024/0284964-0,04/05/2026,tratamento_medico_hospitalar,provido,operadora,pro_operadora,,125,nao
+854895,agravo interno,QUARTA TURMA,AgInt no AREsp,2303166,2023/0041649-0,11/09/2023,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,126,nao
+826284,agravo interno,QUARTA TURMA,AgInt no REsp,1988367,2022/0057733-3,26/09/2022,manutencao_contrato,desprovido,beneficiario,pro_operadora,,127,nao
+818257,agravo interno,TERCEIRA TURMA,AgInt no REsp,1974111,2021/0350159-9,20/06/2022,medicamentos,desprovido,operadora,pro_beneficiario,,128,nao
+941284,recurso especial,TERCEIRA TURMA,AREsp,2904765,2025/0123941-5,17/11/2025,reembolso_rede,desprovido,operadora,pro_beneficiario,,129,nao
+907929,recurso especial,QUARTA TURMA,REsp,2190164,2024/0486875-0,31/03/2025,tratamento_medico_hospitalar,provido,beneficiario,pro_beneficiario,,130,nao
+1072697,agravo interno,QUARTA TURMA,AgInt no REsp,2246487,2025/0463698-0,08/06/2026,cobertura_rol,desprovido,operadora,pro_beneficiario,,131,nao
+856757,agravo interno,SEGUNDA SEÇÃO,AgInt nos EAREsp,2292849,2023/0029204-0,03/10/2023,reajuste,desprovido,beneficiario,pro_operadora,"Na verdade o processo não é contra a operadora, mas contra a administradora de benefícios",132,sim
+940449,recurso especial,QUARTA TURMA,REsp,2179645,2024/0407734-2,16/12/2025,tratamento_medico_hospitalar,provido,operadora,pro_operadora,,133,nao
+882959,agravo interno,TERCEIRA TURMA,AgInt no REsp,1993285,2022/0087077-6,02/09/2024,processual_competencia,desprovido,beneficiario,pro_operadora,,134,nao
+942767,recurso especial,QUARTA TURMA,AREsp,2899704,2025/0115957-5,16/12/2025,cobertura_rol,desprovido,beneficiario,pro_operadora,,135,nao
+958088,recurso especial,QUARTA TURMA,AREsp,2425430,2023/0277184-8,04/05/2026,reajuste,provimento_parcial,operadora,misto,,136,nao
+879059,agravo interno,QUARTA TURMA,AgInt no AREsp,2370346,2023/0172191-1,12/08/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,137,nao
+869713,agravo interno,QUARTA TURMA,AgInt no AREsp,2448343,2023/0318571-9,08/04/2024,outros,desprovido,operadora,pro_beneficiario,,138,nao
+826625,agravo interno,QUARTA TURMA,AgInt no AREsp,2054912,2022/0012847-8,19/09/2022,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,139,nao
+806877,agravo interno,QUARTA TURMA,AgInt no REsp,1959178,2021/0288173-1,21/03/2022,cobertura_rol,desprovido,operadora,pro_beneficiario,,140,nao
+879795,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2635926,2024/0170987-6,12/08/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,141,nao
+913292,recurso especial,TERCEIRA TURMA,AREsp,1887104,2021/0129011-8,26/05/2025,tratamento_medico_hospitalar,provimento_parcial,operadora,sem_merito,,142,nao
+905234,agravo interno,QUARTA TURMA,AgInt no REsp,2019184,2022/0249325-2,24/03/2025,insumos,desprovido,beneficiario,pro_operadora,,143,nao
+882458,agravo interno,TERCEIRA TURMA,AgInt no REsp,2135931,2024/0126880-7,26/08/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,144,nao
+943096,recurso especial,QUARTA TURMA,AREsp,2702899,2024/0279495-3,01/12/2025,medicamentos,desprovido,operadora,pro_beneficiario,,145,nao
+940063,recurso especial,QUARTA TURMA,REsp,2213442,2025/0173779-8,27/10/2025,tratamento_medico_hospitalar,provimento_parcial,beneficiario,pro_beneficiario,,146,nao
+885044,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2557271,2024/0027004-3,16/09/2024,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,147,nao
+912090,recurso especial,TERCEIRA TURMA,REsp,2146147,2024/0186839-7,12/05/2025,tratamento_medico_hospitalar,desprovido,operadora,pro_beneficiario,,148,nao
+921351,agravo interno,TERCEIRA TURMA,AgInt no AREsp,2853061,2025/0040665-5,25/08/2025,outros,desprovido,operadora,pro_beneficiario,,149,nao
+806956,agravo interno,TERCEIRA TURMA,AgInt no REsp,1902349,2020/0278256-3,14/03/2022,manutencao_contrato,desprovido,beneficiario,pro_operadora,,150,nao
